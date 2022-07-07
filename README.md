@@ -5,3 +5,5 @@
 - $O=I*2^{ev}$
 ## 2. fft example
 - sinewave, squarewave, rectangle, rotate
+## 3. pyramid image blending
+- pyramid, laplacian pyramid, image blending 
