@@ -21,6 +21,6 @@ def ev_control(img, ev=0):
 
 if __name__=='__main__':
     ev = 2
-    img = cv2.imread('ev0.jpg')
+    img = cv2.imread('./images/exposure_value/ev0.jpg')
     ev_img =  ev_control(img, ev=ev)
     cv2.imwrite(f'ev_{ev}_cv.png', ev_img)
