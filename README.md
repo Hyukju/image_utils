@@ -10,4 +10,4 @@
 ## 4. Retinex 
 - single scale retinex (ssr), multi-scale retinex (msr)
 ## 5. normalize 
-- clip 
+- clip, clip3ch
